@@ -1,0 +1,27 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "first node application",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreetamRawat/firstApplication.git"
+  },
+  "keywords": [
+    "javascript",
+    "angular"
+  ],
+  "author": "preetam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PreetamRawat/firstApplication/issues"
+  },
+  "homepage": "https://github.com/PreetamRawat/firstApplication#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
